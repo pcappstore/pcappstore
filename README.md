@@ -1,16 +1,13 @@
-## Hi there 👋
+# The page Telegram
+**Telegram for PC** is a powerful messenger with a user-friendly interface, fast synchronization, and top-notch security. Install Telegram on your computer to instantly exchange messages, share large files, and stay connected with friends and colleagues seamlessly.
 
-<!--
-**pcappstore/pcappstore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## To get a Telegram
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**1.** Click on the Telegram image to go to the AppStore where you can get Telegram, and other offerings.
+
+
+
+
+
+![](windows.png)
